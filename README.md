@@ -33,7 +33,7 @@ teste_impelemtacao/
 ## 📌 Como clonar o projeto
 
 ```bash
-git clone https://github.com/MarceloRodrigues1853/teste_impelemtacao.git
+git clone https://github.com/MarceloRodrigues1853/teste_implemtacao.git
 cd teste_impelemtacao
 ```
 
